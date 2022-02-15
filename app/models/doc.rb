@@ -1,3 +1,3 @@
 class Doc < ApplicationRecord
-    
+
 end
